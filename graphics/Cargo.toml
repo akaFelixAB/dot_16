@@ -6,4 +6,4 @@ license = "MIT"
 
 [dependencies]
 winit = "0.30"
-pixels = "0.16"
+pixels = "0.17"
